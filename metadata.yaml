@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9508
     wikipedia: http://en.wikipedia.org/wiki/Abner_Doubleday
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20762#Chancellorsville-and-GettysburgCampaigns-of-the-Civil-War---VI
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2007-03-07'
 gutenberg_type: Text
