@@ -1,0 +1,33 @@
+_repo: Chancellorsville-and-GettysburgCampaigns-of-the-Civil-War---VI_20762
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doubleday, Abner
+    birthdate: 1819
+    deathdate: 1893
+    gutenberg_agent_id: '9508'
+    url: http://www.gutenberg.org/2009/agents/9508
+    wikipedia: http://en.wikipedia.org/wiki/Abner_Doubleday
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcc 'E456'
+- !lcsh 'Chancellorsville, Battle of, Chancellorsville, Va., 1863'
+- !lcsh 'Doubleday, Abner, 1819-1893'
+- !lcsh 'Gettysburg, Battle of, Gettysburg, Pa., 1863'
+title: 'Chancellorsville and Gettysburg
+
+  Campaigns of the Civil War - VI'
+url: http://www.gutenberg.org/ebooks/20762
